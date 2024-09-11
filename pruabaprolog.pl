@@ -30,4 +30,4 @@ area('España',505000).
 densidad(Pais,D):-
 poblacion(Pais,P),
 area(Pais,A),
-D is P / A.
+D is P / A. 
